@@ -1,1 +1,1 @@
-#write a script that downloads a song from youtube, a pic from random site and generate a vide
+#write a script that downloads a song from youtube, a pic from random site and generates a video using the song and the image as input. 
